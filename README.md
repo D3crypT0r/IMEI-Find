@@ -46,7 +46,7 @@ Enable USB Debugging.
 
 3. Run the script:
 
-python imei_finder.py
+python3 IMEI-Find.py
 
 
 4. Features available in the tool:
