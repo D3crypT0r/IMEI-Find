@@ -1,10 +1,6 @@
 # IMEI-Find
 Finder &amp; Patcher
 
-Here is the README.md file for your program:
-
-# IMEI Finder and Patcher
-
 A GUI-based tool to search for specific terms (like `IMEI`) within an Android device's file system using ADB (Android Debug Bridge). The tool can also fetch mounted partitions and export search results for further analysis.
 
 ## Features
